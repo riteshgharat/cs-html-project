@@ -1,0 +1,29 @@
+// for table element
+
+<table width="95%" align="center" cellpadding="20" cellspacing="30">
+  <tr></tr>
+</table>
+
+// for td element
+
+<td bgcolor="---" align="center" width="20%" style="border: 2px solid #000000; border-radius: 20px">
+  <img src="images/---" width="150px">
+  <h1>---</h1>
+  <hr color="#000000">
+  <h3>
+    <font color="red">---</font> for <font color="red">---</font><br>
+    <a href="---" align="right">
+      <hr color="#000000">Read More
+    </a>
+  </h3>
+</td>
+
+
+// for wikipedia
+
+https://en.m.wikipedia.org/wiki/Main_Page
+
+// color
+
+green: #72dc9d
+blue: #5cf9fe
