@@ -1,3 +1,6 @@
+# CS-HTML PROJECT
+## Preview: [https://riteshgharat.github.io/csproject](https://riteshgharat.github.io/csproject)
+
 ## Main Structure:
 ```html
 <!DOCTYPE html> //mandatory tag for browser to detect HTML5 DOC
@@ -11,7 +14,7 @@
  </body>
 </html>
 ```
-## For table element
+## "Table" element
 ```html
 <table width="95%" align="center" cellpadding="20" cellspacing="30"> //("table" tag with width, align, cellpadding & cellspacing property)
   <tr>
@@ -19,7 +22,7 @@
   </tr>
 </table>
 ```
-## For td element
+## "Td" element
 ```html
 <td bgcolor="BACKGROUND-COLOR OF CARD" align="center" width="20%" style="border: 2px solid #ffffff; border-radius: 50px 0px">
   // "td" tag with "background-color", "align", "width", ***inlined css:  "style" tag (border:2px solid #ffffff; border-radius: 50px 0px property)
